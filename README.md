@@ -1,2 +1,2 @@
 # AutoAccept
-Just ignore this repository
+If you don't know what the purpose of this repository is, then just ignore this.
